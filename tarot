@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Consultas de Tarot com Mari Araújo. Encontre respostas e direção em momentos importantes da vida.">
+    <title>Taróloga Mari Araújo | Consultas de Tarot</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            text-align: center;
+        }
+        header {
+            background-color: #ffdd57;
+            padding: 20px;
+            width: 100%;
+        }
+        header h1 {
+            font-size: 2.5rem;
+            margin: 0;
+            color: #333;
+        }
+        main {
+            max-width: 600px;
+            padding: 20px;
+        }
+        h2 {
+            font-size: 1.8rem;
+            color: #ffdd57;
+        }
+        p {
+            font-size: 1.1rem;
+        }
+        .cta {
+            background-color: #ffdd57;
+            padding: 15px;
+            border-radius: 5px;
+            font-size: 1.2rem;
+            margin: 20px 0;
+            display: inline-block;
+            color: #333;
+            text-decoration: none;
+        }
+        .cta:hover {
+            background-color: #ffcc33;
+        }
+        footer {
+            margin-top: 30px;
+            font-size: 0.9rem;
+            color: #555;
+        }
+        .social {
+            margin: 10px 0;
+        }
+        .social a {
+            color: #333;
+            text-decoration: none;
+        }
+        .social a:hover {
+            color: #ffdd57;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Taróloga Mari Araújo</h1>
+    </header>
+    <main>
+        <h2>Encontre o seu caminho com as cartas!</h2>
+        <p>Olá, eu sou Mari Araújo, taróloga de Salvador, Bahia. Com apenas 24 anos, já ajudei inúmeras pessoas a encontrarem respostas e direcionamento nos momentos mais importantes de suas vidas. São 2 anos de experiência trazendo luz para suas questões.</p>
+        
+        <p>Quer clareza em suas decisões? <strong>Faça uma consulta rápida e descomplique seu destino!</strong></p>
+        
+        <h2>Consultas de Tarot</h2>
+        <p><strong>1 Pergunta:</strong> R$12,00</p>
+        <p><strong>3 Perguntas:</strong> R$30,00</p>
+        <p><strong>7 Perguntas:</strong> R$60,00</p>
+        
+        <a href="https://wa.me/557197359411" class="cta">Chamar no WhatsApp</a>
+        
+        <div class="social">
+            <p>Siga-me no Instagram:</p>
+            <a href="https://instagram.com/seisdeouros" target="_blank">@seisdeouros</a>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2024 Mari Araújo - Consultas de Tarot. Salvador, Bahia.</p>
+    </footer>
+</body>
+</html>
